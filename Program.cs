@@ -17,7 +17,7 @@ static Random rng = new Random();
             {
                 int teste = rng.Next(1, 7) + rng.Next(1, 7);
                 bool sortudo = teste <= Sorte;
-                Sorte = Math.Max(0, Sorte - 1); // Reduz sorte após uso
+                Sorte = Math.Max(0, Sorte - 1); 
                 return sortudo;
             }
 
