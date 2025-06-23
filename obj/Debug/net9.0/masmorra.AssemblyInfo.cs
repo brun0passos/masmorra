@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("masmorra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+800ca3be8185ecd67361458e77bdcdca3f254577")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cb09fcf5bba0e43f2e8870635badd313cb0d207")]
 [assembly: System.Reflection.AssemblyProductAttribute("masmorra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("masmorra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
